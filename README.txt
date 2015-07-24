@@ -1,0 +1,1 @@
+Une page Web très basique avec un fond jaune
